@@ -15,7 +15,7 @@ const greeting = {
     "A passionate Full Stack Software Developer having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ,
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
+    "https://resume.io/r/6PtTEVKAh",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -37,7 +37,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -165,7 +165,7 @@ const workExperiences = {
       companylogo: require("./assets/images/stagwell_logo.png"),
       date: "September 2017 – Present",
       desc: [
-        "Building direct to consumer websites within North Amercia using modern design and marketing approach on a ecommerce platform - Bigcommerce",
+        "Building direct to consumer websites within North America using modern design and marketing approach on a ecommerce platform - Bigcommerce",
         "Technologies used: Vanilla Javascript, SASS, CSS3, JQuery, HTML5, PYTHON, NODEJS"
       ]
     },
