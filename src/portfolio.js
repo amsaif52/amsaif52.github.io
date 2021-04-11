@@ -11,9 +11,8 @@ const illustration = {
 const greeting = {
   username: "Ali Asgar",
   title: "Hi all, I'm Ali Asgar",
-  subTitle: 
-    "A passionate Full Stack Software Developer having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
-  ,
+  subTitle:
+    "A passionate Full Stack Software Developer having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.",
   resumeLink:
     "https://drive.google.com/file/d/17Ejy_tFBXUUzgVqruO2GKgjJ6vdACW2u/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -42,9 +41,7 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS/ AZURE"
-    )
+    emoji("⚡ Integration of third party services such as Firebase/ AWS/ AZURE")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
