@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff0ab21d883bd7bc87c4fb6580768084",
+    "revision": "53d8843dd64088a1e500bf19df33a268",
     "url": "/index.html"
   },
   {
-    "revision": "429dee02044d870925ed",
-    "url": "/static/css/3.00373544.chunk.css"
+    "revision": "865f48b9e442943801b9",
+    "url": "/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "2404bfa19d9e99d63db9",
-    "url": "/static/css/4.3e7d09e6.chunk.css"
+    "revision": "187b88e6e01c5bc154f8",
+    "url": "/static/css/4.ea3dbbf2.chunk.css"
   },
   {
-    "revision": "7ae527b06e3863dd59dc",
-    "url": "/static/css/main.63fe8162.chunk.css"
+    "revision": "d71cf6913c030d8e0048",
+    "url": "/static/css/main.c7db8dec.chunk.css"
   },
   {
     "revision": "1d47de53ce5a949c9085",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.19aa871a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "429dee02044d870925ed",
+    "revision": "865f48b9e442943801b9",
     "url": "/static/js/3.97cabd14.chunk.js"
   },
   {
-    "revision": "2404bfa19d9e99d63db9",
+    "revision": "187b88e6e01c5bc154f8",
     "url": "/static/js/4.aad39f38.chunk.js"
   },
   {
-    "revision": "7ae527b06e3863dd59dc",
-    "url": "/static/js/main.3f91c978.chunk.js"
+    "revision": "d71cf6913c030d8e0048",
+    "url": "/static/js/main.e49bb62b.chunk.js"
   },
   {
-    "revision": "f608fcedb47734792b87",
-    "url": "/static/js/runtime-main.ebe17576.js"
+    "revision": "62f88886bc53295c1a70",
+    "url": "/static/js/runtime-main.0effddeb.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/skill.34409398.svg"
   },
   {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/static/media/talksCardBack.13780cdd.svg"
+    "revision": "39eff4a91b01e00a32cb78f3797eec88",
+    "url": "/static/media/talksCardBack.39eff4a9.svg"
   }
 ]);
