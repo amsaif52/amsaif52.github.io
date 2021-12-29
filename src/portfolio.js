@@ -22,7 +22,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/amsaif52",
-  linkedin: "https://www.linkedin.com/in/aliasgarsaif52/",
+  linkedin: "https://www.linkedin.com/in/aliasgarsaifmerchant/",
   gmail: "am52saif@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
