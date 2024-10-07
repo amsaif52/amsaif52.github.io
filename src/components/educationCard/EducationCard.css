@@ -1,6 +1,9 @@
 .education-card {
   display: flex;
   flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 0.5rem;
 }
 
 .education-card:hover + .education-card-border {

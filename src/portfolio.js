@@ -113,19 +113,19 @@ const educationInfo = {
       schoolName: "Lighthouse Labs",
       logo: require("./assets/images/lighthouse_labs.png"),
       subHeader: "Full Time Immersive Bootcamp, Web Development",
-      duration: "March 2016 - May 2016"
+      duration: ""
     },
     {
       schoolName: "King's College London",
       logo: require("./assets/images/kings.jpeg"),
       subHeader: "Master of Science in Robotics",
-      duration: "September 2013 - April 2014"
+      duration: ""
     },
     {
       schoolName: "American University in Dubai",
       logo: require("./assets/images/american.jpeg"),
       subHeader: "Bachelor of Science in Computer Engineering",
-      duration: "September 2007 - April 2012"
+      duration: ""
     }
   ]
 };
@@ -157,13 +157,43 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Senior Software Developer",
+      company: "Walmart Labs",
+      companylogo: require("./assets/images/walmart_logo.jpeg"),
+      date: "June 2022 – Present",
+      desc: [
+        "I created comprehensive architectural diagrams for both front-end and back-end pipelines to ensure seamless integration and scalability across systems. Additionally, I managed the entire project lifecycle, including testing, debugging, technical analysis, design, and implementation of robust solutions to deliver a high-performing and scalable product.",
+        "Technologies used: REACT, REACT HOOKS, REDUX, NODEJS, EXPRESS, JIRA, GIT, GITHUB, SLACK, AWS, DOCKER, KUBERNETES, JENKINS, JIRA, CONFLUENCE, POSTMAN, NEW RELIC, SENTRY, JEST, ENZYME, CYPRESS, SONARQUBE, CIRCLECI, NEST JS, SWAGGER, GRAPHQL, AZURE, GCP"
+      ]
+    },
+    {
+      role: "Software Developer",
+      company: "Accedo Tv",
+      companylogo: require("./assets/images/accedo_tv_logo.jpeg"),
+      date: "Dec 2021 – Dec 2023",
+      desc: [
+        "I developed and deployed an application that enabled SiriusXM users to access audio-on-demand (AOD) and video-on-demand (VOD) on Comcast, Samsung, LG, and Vizio platforms. Throughout the project, I managed the entire lifecycle, including testing, debugging, technical analysis, design, and implementation of robust solutions. I also actively participated in code reviews to ensure high standards of code quality, security, and performance were maintained.",
+        "Technologies used: ES6, JS, HTML, CSS, SASS, REACT, REDUX, NODEJS, PYTHON, JIRA, GIT, GITHUB, SLACK, RXJS, AWS"
+      ]
+    },
+    {
+      role: "Software Developer",
+      company: "Atimi Software",
+      companylogo: require("./assets/images/atmi_logo.jpeg"),
+      date: "June 2021 – April 2022",
+      desc: [
+        "I built a web application that enabled patients to submit, purchase, and arrange for prescription deliveries online, overseeing the full project lifecycle, including testing, debugging, technical analysis, design, and coding. I also assisted the Project Manager with implementation plans and actively participated in code reviews to ensure quality and adherence to best practices.",
+        "Technologies used: REDUX, SASS, CSS3, REACT, HTML5, PYTHON, NODEJS, ES6, AWS, BIGCOMMERCE PAYMENT GATEWAY, JIRA, GIT, GITHUB, BITBUCKET, SLACK, BIGCOMMERCE WEBHOOKS"
+      ]
+    },
+    {
       role: "Software Developer",
       company: "Stagwell Technologies",
       companylogo: require("./assets/images/stagwell_logo.png"),
-      date: "September 2017 – Present",
+      date: "September 2017 – June 2021",
       desc: [
-        "Building direct to consumer websites within North America using modern design and marketing approach on a ecommerce platform - Bigcommerce",
-        "Technologies used: Vanilla Javascript, SASS, CSS3, JQuery, HTML5, PYTHON, NODEJS"
+        "I planned, developed, tested, deployed, and maintained web applications, ensuring efficient troubleshooting and remediation. I worked both independently and collaboratively, translating client requirements into comprehensive application designs and system specifications. Throughout each project, I adhered to established policies and procedures, consistently meeting quality standards.",
+        "Technologies used: Vanilla Javascript, SASS, CSS3, JQuery, HTML5, PYTHON, NODEJS, BIGCOMMERCE PAYMENT GATEWAY, JIRA, GIT, GITHUB, SLACK, BIGCOMMERCE WEBHOOKS, BIGCOMMERCE API, BIGCOMMERCE STENCIL"
       ]
     },
     {
@@ -303,18 +333,15 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
         },
         {
           name: "Award Letter",
-          url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
         },
         {
           name: "Google Code-in Blog",
-          url:
-            "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
     },
@@ -326,8 +353,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "View Google Assistant Action",
-          url:
-            "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
         }
       ]
     },
@@ -357,8 +383,7 @@ const blogSection = {
 
   blogs: [
     {
-      url:
-        "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
+      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
